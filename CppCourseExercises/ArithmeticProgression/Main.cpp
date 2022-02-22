@@ -10,7 +10,6 @@ int main(void)
 
 	std::cout << "Input collection values: (please separate them by using spaces)" << std::endl;
 	getline(std::cin, input);
-	std::cout << input << std::endl;
 
 	int numberListIndex = 0;
 	numberList.push_back(0);
