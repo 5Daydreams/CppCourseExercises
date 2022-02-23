@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringReversal", "StringRev
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArithmeticProgression", "ArithmeticProgression\ArithmeticProgression.vcxproj", "{58168CFB-2C6E-44B8-B927-CC5963BEFCCA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateLargestNumber", "TemplateLargestNumber\TemplateLargestNumber.vcxproj", "{6064E85C-9C05-4455-85B1-3E3A772370E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{58168CFB-2C6E-44B8-B927-CC5963BEFCCA}.Release|x64.Build.0 = Release|x64
 		{58168CFB-2C6E-44B8-B927-CC5963BEFCCA}.Release|x86.ActiveCfg = Release|Win32
 		{58168CFB-2C6E-44B8-B927-CC5963BEFCCA}.Release|x86.Build.0 = Release|Win32
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Debug|x64.ActiveCfg = Debug|x64
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Debug|x64.Build.0 = Debug|x64
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Debug|x86.Build.0 = Debug|Win32
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Release|x64.ActiveCfg = Release|x64
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Release|x64.Build.0 = Release|x64
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Release|x86.ActiveCfg = Release|Win32
+		{6064E85C-9C05-4455-85B1-3E3A772370E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
